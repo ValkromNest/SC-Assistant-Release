@@ -1,15 +1,14 @@
 <h1 align="center">STAR CITIZEN ASSISTANT</h1>
 
 ---
-<img width="814" height="420" alt="image" src="https://github.com/user-attachments/assets/9a15ed2a-5f06-4877-91d1-42768342e8c2" />
-
-<p align="center">
-Overlay di supporto per Star Citizen, versione 0.1
-</p>
+<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
+  <img width="814" height="420" alt="image" src="https://github.com/user-attachments/assets/9a15ed2a-5f06-4877-91d1-42768342e8c2" />
+  <p>Overlay di supporto per Star Citizen, versione 0.1</p>
+</div>
 
 ---
 
-<h2>🛠️ LAUNCHER</h2>
+<h2>LAUNCHER</h2>
 
 <h3>
   <img align="center" width="34" height="35" alt="image" src="https://github.com/user-attachments/assets/8a67d9df-6c59-420c-bc2c-cf27ed309071" />
@@ -68,7 +67,7 @@ Se abilitato, il click ignora l'overlay.
 
 ---
 
-<h2>📋 MENU' PRINCIPALE</h2>
+<h2>MENU' PRINCIPALE</h2>
 
 <h3>
   <img width="29" height="34" alt="image" src="https://github.com/user-attachments/assets/2ef10f31-291a-47f6-a7cd-647f44d19f9b" />
