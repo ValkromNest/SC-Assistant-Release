@@ -1,4 +1,4 @@
-# Licenza d'Uso - Vn's SC Assistant Overlay
+# Licenza d'Uso - VN's SC Assistant Overlay
 
 Copyright (c) 2025 Cagliano Simone  
 Tutti i diritti riservati.
@@ -61,3 +61,4 @@ Per richieste di autorizzazione o collaborazione, contattare:
 ---
 
 © 2025 Cagliano Simone — Tutti i diritti riservati.
+
