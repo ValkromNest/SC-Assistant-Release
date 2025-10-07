@@ -2,8 +2,9 @@
 
 ---
 <div align="center" style="margin-top: 10px; margin-bottom: 10px;">
-  <img width="814" height="420" alt="image" src="https://github.com/user-attachments/assets/9a15ed2a-5f06-4877-91d1-42768342e8c2" />
-  <p>Overlay di supporto per Star Citizen, versione 0.1</p>
+  <img width="844" height="241" alt="image" src="https://github.com/user-attachments/assets/4d8dadd6-3c0e-4a77-94ed-886888aff68a" />
+
+  <p>Overlay di supporto per Star Citizen, versione 0.2</p>
 </div>
 
 ---
@@ -111,5 +112,17 @@ Per ogni entry, il nome del giocatore rappresenta un link che porta al suo profi
 Apre la schermata col timer in tempo reale per apertura/chiusura degli executive hangars.
 </p>
 <img width="426" height="404" alt="image" src="https://github.com/user-attachments/assets/a0d834ed-f574-4718-b6fd-38ba5b862475" />
+
+<h3>
+  <img width="33" height="36" alt="image" src="https://github.com/user-attachments/assets/5d569656-f8d8-4895-b83b-3e38e14d43bd" />
+  SESSION INFO
+</h3>
+
+<p>
+Apre la schermata con le informazioni sull'attuale sessione. Nell'elenco delle sessioni recenti quelle in verde sono la stessa di quella attuale.<br>
+Il tasto <img width="30" height="32" alt="image" src="https://github.com/user-attachments/assets/d7021b3b-1220-436b-9909-ee16a59df891" /> permette di
+copiare negli appunti l'ID dello shard.
+</p>
+<img width="426" height="229" alt="image" src="https://github.com/user-attachments/assets/e286ca53-90ea-49ba-88b5-3469bdc6aa8a" />
 
 <p align="center"><i>Guida realizzata per VN's SC Assistant Overlay ©</i></p>
