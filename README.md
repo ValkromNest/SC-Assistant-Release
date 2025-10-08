@@ -140,6 +140,7 @@ copiare negli appunti l'ID dello shard.
     <li>in basso a sinistra clicca su API</li>
     <li>aggiungi una nuova app</li>
     <li>in fondo ci sarà il token da copiare in "config.json" tra le virgolette della voce "uexAPI"</li>
+    <li>per ogni utente sono concessi un massimo di 100 operazioni al giorno: cercare gli elementi e selezionarne uno costano 2 per esempio</li>
   </ul>
 </p>
 
