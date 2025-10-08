@@ -2,9 +2,9 @@
 
 ---
 <div align="center" style="margin-top: 10px; margin-bottom: 10px;">
-  <img width="844" height="241" alt="image" src="https://github.com/user-attachments/assets/4d8dadd6-3c0e-4a77-94ed-886888aff68a" />
+  <img width="813" height="202" alt="image" src="https://github.com/user-attachments/assets/b51fc114-45d7-4a4b-afc9-c55447d3653d" />
 
-  <p>Overlay di supporto per Star Citizen, versione 0.2</p>
+  <p>Overlay di supporto per Star Citizen, versione 0.3</p>
 </div>
 
 ---
@@ -124,5 +124,22 @@ Il tasto <img width="30" height="32" alt="image" src="https://github.com/user-at
 copiare negli appunti l'ID dello shard.
 </p>
 <img width="426" height="229" alt="image" src="https://github.com/user-attachments/assets/e286ca53-90ea-49ba-88b5-3469bdc6aa8a" />
+
+<h3>
+  <img width="30" height="33" alt="image" src="https://github.com/user-attachments/assets/39d6214d-c0ab-49de-94a6-28b2bd8c625b" />
+  ITEM FINDER
+</h3>
+
+<p>
+  Apre una schermata con barra di ricerca per cercare luogo d'acquisto e prezzo di armi, armature e componenti
+  <img width="907" height="589" alt="image" src="https://github.com/user-attachments/assets/1c2dbc87-4b3e-4365-b795-145e12852940" />
+  NOTA BENE Per funzionare necessita di un Bearer Token dal sito di UEXCorp:
+  <ul>
+    <li>crea un account/logga</li>
+    <li>in basso a sinistra clicca su API</li>
+    <li>aggiungi una nuova app</li>
+    <li>in fondo ci sarà il token da copiare in "config.json" tra le virgolette della voce "uexAPI"</li>
+  </ul>
+</p>
 
 <p align="center"><i>Guida realizzata per VN's SC Assistant Overlay ©</i></p>
