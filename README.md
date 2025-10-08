@@ -132,7 +132,7 @@ copiare negli appunti l'ID dello shard.
 
 <p>
   Apre una schermata con barra di ricerca per cercare luogo d'acquisto e prezzo di armi, armature e componenti
-  <img width="907" height="589" alt="image" src="https://github.com/user-attachments/assets/1c2dbc87-4b3e-4365-b795-145e12852940" />
+  <img width="903" height="587" alt="image" src="https://github.com/user-attachments/assets/019e10bf-a1e7-43bf-a957-96ac145fd046" />
   NOTA BENE Per funzionare necessita di un Bearer Token dal sito di UEXCorp:
   <ul>
     <li>crea un account/logga</li>
