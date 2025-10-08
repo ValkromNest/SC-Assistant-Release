@@ -114,7 +114,7 @@ Apre la schermata col timer in tempo reale per apertura/chiusura degli executive
 <img width="426" height="404" alt="image" src="https://github.com/user-attachments/assets/a0d834ed-f574-4718-b6fd-38ba5b862475" />
 
 <h3>
-  <img width="33" height="36" alt="image" src="https://github.com/user-attachments/assets/5d569656-f8d8-4895-b83b-3e38e14d43bd" />
+  <img width="29" height="29" alt="image" src="https://github.com/user-attachments/assets/f96a4530-a7b0-4bb9-8ed1-b9afbdc110ad" />
   SESSION INFO
 </h3>
 
