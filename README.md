@@ -153,13 +153,29 @@ Apre la schermata col timer in tempo reale per apertura/chiusura degli executive
   <img width="903" height="587" alt="image" src="https://github.com/user-attachments/assets/019e10bf-a1e7-43bf-a957-96ac145fd046" /><br>
   N.B.1 Vengono inseriti in lista SOLO gli oggetti acquistabili<br>
   N.B.2 Per funzionare necessita di un Bearer Token dal sito di UEXCorp:
+
+  ---
+
+<h2>GUIDA PER OTTENIMENTO BEARER TOKEN (21/10/25)</h2>
   <ul>
-    <li>crea un account/logga</li>
-    <li>in basso a sinistra clicca su API</li>
-    <li>aggiungi una nuova app</li>
-    <li>in fondo ci sarà il token da copiare in "config.json" tra le virgolette della voce "uexAPI"</li>
-    <li>per ogni utente sono concessi un massimo di 100 operazioni al giorno: cercare gli elementi e selezionarne uno costano 2 per esempio</li>
+    <li>Naviga sul sito <code>https://uexcorp.space/</code> e, se non non esistente, crea un account</li>
+    <li>
+      in basso a sinistra clicca su API<br>
+      <img width="667" height="255" alt="image" src="https://github.com/user-attachments/assets/5faefd6e-c5db-4398-be72-fb18e08ce9b9" />
+    </li>
+    <li>
+      tramite il pulsante "My Apps" accedi alla nuova schermata e crea una nuova app<br>
+      <img width="546" height="114" alt="image" src="https://github.com/user-attachments/assets/22df1304-2fd5-4089-b910-3177e2746ef8" />
+    </li>
+    <li>
+      in fondo ci sarà il token da copiare in "config.json" tra le virgolette della voce "uexAPI"<br>
+      <img width="1124" height="154" alt="image" src="https://github.com/user-attachments/assets/e83c9993-9c14-4b46-9dd1-22ca0bf5aeec" /><br>
+      <img width="559" height="258" alt="image" src="https://github.com/user-attachments/assets/0040f527-3c3d-4077-8eb4-c157a03558f4" />
+    </li>
+    <li>
+      per ogni utente sono concessi un massimo di operazioni al giorno: cercare gli elementi e selezionarne uno costano 2 per esempio
+    </li>
   </ul>
 </p>
 
-<p align="center"><i>Guida realizzata per VN's SC Assistant Overlay ©</i></p>
+<p align="center"><i>Guida realizzata per SCAssistant Overlay ©</i></p>
