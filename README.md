@@ -57,11 +57,13 @@ e se si desidera registrare gli eventi degli NPC.
 </h4>
 <p>
   <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/46cef660-ba7c-4201-99db-4d61e26ab3ae" />
-  Trascinare tenendo premuto il tasto destro per spostare il feed<br>
+  Trascinare tenendo premuto il tasto destro per spostare il feed. Il testo "finto" rappresenta idealmente dove sarà il feed reale.<br>
   <img width="33" height="32" alt="image" src="https://github.com/user-attachments/assets/5db1fafd-9915-44f8-9246-4bc5e8ea5d83" />
   utilizzare il pulsante al primo avvio e dopo ogni patch per popolare <code>weapon_data.json</code>. Questo file è necessario per 
   le corrispondenze <i>codice_arma → nome_reale_arma</i> del logger.
 </p>
+<img width="405" height="147" alt="image" src="https://github.com/user-attachments/assets/f5f45d73-ea21-4a04-9f4b-5a997b2fd543" /><br>
+
 
 <h3>
   <img width="31" height="33" alt="image" src="https://github.com/user-attachments/assets/fd1ca731-8c80-4ea5-a2ff-88d63fd0d8d8" />
