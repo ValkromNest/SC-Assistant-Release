@@ -2,7 +2,7 @@
 
 ---
 <div align="center" style="margin-top: 10px; margin-bottom: 10px;">
-  <img width="813" height="202" alt="image" src="https://github.com/user-attachments/assets/b51fc114-45d7-4a4b-afc9-c55447d3653d" />
+  <img width="850" height="206" alt="image" src="https://github.com/user-attachments/assets/95a2aeea-7967-4da1-a9b2-2fae7fdba395" />
 
   <p>Overlay di supporto per Star Citizen, versione 0.3</p>
 </div>
@@ -43,7 +43,25 @@ e se si desidera registrare gli eventi degli NPC.
   <img align="center" width="34" height="35" alt="image" src="https://github.com/user-attachments/assets/8a67d9df-6c59-420c-bc2c-cf27ed309071" /> 
   IMPOSTAZIONI - TASTO DESTRO
 </h3>
-<p>Trascinare per spostare l'overlay.</p>
+<p>Trascinare per spostare l'overlay (ad eccezione del feed).</p>
+
+<h3>
+  <img width="26" height="30" alt="image" src="https://github.com/user-attachments/assets/5ebf2740-30a5-4e4b-a40f-aebbd7582eaf" />
+  <img width="25" height="28" alt="image" src="https://github.com/user-attachments/assets/298bbe5f-7909-4602-8078-fd8d94a9415a" />
+  MOSTRA DUMMY DYNAMIC FEED
+</h3>
+<p>Cliccare (icona verde) per mostrare una versione "dummy" del kill feed, cliccare di nuovo (icona rossa) per nasconderlo</p>
+
+<h4>
+  DUMMY FEED
+</h4>
+<p>
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/46cef660-ba7c-4201-99db-4d61e26ab3ae" />
+  Trascinare tenendo premuto il tasto destro per spostare il feed<br>
+  <img width="33" height="32" alt="image" src="https://github.com/user-attachments/assets/5db1fafd-9915-44f8-9246-4bc5e8ea5d83" />
+  utilizzare il pulsante al primo avvio e dopo ogni patch per popolare <code>weapon_data.json</code>. Questo file è necessario per 
+  le corrispondenze <i>codice_arma → nome_reale_arma</i> del logger.
+</p>
 
 <h3>
   <img width="31" height="33" alt="image" src="https://github.com/user-attachments/assets/fd1ca731-8c80-4ea5-a2ff-88d63fd0d8d8" />
@@ -63,7 +81,7 @@ e se si desidera registrare gli eventi degli NPC.
 </h3>
 <p>
 Cliccare per abilitare (<b>lucchetto chiuso</b>) o disabilitare (<b>lucchetto aperto</b>) il pass-through del mouse sulle seguenti finestre.<br>
-Se abilitato, il click ignora l'overlay.
+Se abilitato, il click ignora l'overlay <b>ad eccezione del launcher (riquadro blu)</b>.
 </p>
 
 ---
@@ -71,23 +89,20 @@ Se abilitato, il click ignora l'overlay.
 <h2>MENU' PRINCIPALE</h2>
 
 <h3>
-  <img width="29" height="34" alt="image" src="https://github.com/user-attachments/assets/2ef10f31-291a-47f6-a7cd-647f44d19f9b" />
+  <img width="28" height="31" alt="image" src="https://github.com/user-attachments/assets/d57007bd-4621-407e-984e-78fa9e2b8415" />
+  <img width="27" height="28" alt="image" src="https://github.com/user-attachments/assets/1d627de8-53df-4033-8a69-d8c2bde4868b" />
   VISUALIZZA LOGGER
 </h3>
 
 <p>
-Cliccare per mostrare il logger in tempo reale.
+  Cliccare per abilitare/disabilitare la visualizzazione del feed. Anche se non visualizzato continuerà a loggare.
+  <ul>
+    <li>Verde -> abilitato</li>
+    <li>Rosso -> disabilitato</li>
+  </ul>
 </p>
-<img width="423" height="148" alt="image" src="https://github.com/user-attachments/assets/b9411b8e-5bd2-45cd-981c-a09def511963" /><br>
-
-<h3>
-  <img width="33" height="32" alt="image" src="https://github.com/user-attachments/assets/5db1fafd-9915-44f8-9246-4bc5e8ea5d83" />
-  UPDATE
-</h3>
-<p>
-In alto a destra del logger, utilizzare il pulsante al primo avvio e dopo ogni patch per popolare <code>weapon_data.json</code>.<br>
-Questo file è necessario per le corrispondenze <i>codice_arma → nome_reale_arma</i> del logger.
-</p>
+<img width="535" height="214" alt="image" src="https://github.com/user-attachments/assets/8f0d42d0-18c4-4baa-ae8b-58d711fcfaab" />
+<br>
 
 <h3>
   <img width="37" height="32" alt="image" src="https://github.com/user-attachments/assets/1479f3d4-ba4b-46c6-9c04-aabea9e55c25" />
@@ -119,11 +134,12 @@ Apre la schermata col timer in tempo reale per apertura/chiusura degli executive
 </h3>
 
 <p>
-Apre la schermata con le informazioni sull'attuale sessione. Nell'elenco delle sessioni recenti quelle in verde sono la stessa di quella attuale.<br>
-Il tasto <img width="30" height="32" alt="image" src="https://github.com/user-attachments/assets/d7021b3b-1220-436b-9909-ee16a59df891" /> permette di
-copiare negli appunti l'ID dello shard.
+  Apre la schermata con le informazioni sull'attuale sessione. Nell'elenco delle sessioni recenti quelle in verde sono la stessa di quella attuale.<br>
+  Il tasto <img width="30" height="32" alt="image" src="https://github.com/user-attachments/assets/d7021b3b-1220-436b-9909-ee16a59df891" /> permette di
+  copiare negli appunti l'ID dello shard.<br>
+  Gli orari sono calcolati in base all'orario locale della macchina.
 </p>
-<img width="426" height="229" alt="image" src="https://github.com/user-attachments/assets/e286ca53-90ea-49ba-88b5-3469bdc6aa8a" />
+<img width="427" height="347" alt="image" src="https://github.com/user-attachments/assets/73a68c03-a65a-4bd4-883d-b1e7983002af" />
 
 <h3>
   <img width="30" height="33" alt="image" src="https://github.com/user-attachments/assets/39d6214d-c0ab-49de-94a6-28b2bd8c625b" />
