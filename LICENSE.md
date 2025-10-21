@@ -6,7 +6,7 @@ Tutti i diritti riservati.
 ---
 
 ## 1. Oggetto della licenza
-Il presente software ("VN's SC Assistant Overlay") e tutti i file, immagini, loghi,
+Il presente software ("SCAssistant") e tutti i file, immagini, loghi,
 documentazione e risorse ad esso associati sono di proprietà esclusiva di Cagliano Simone.
 
 La distribuzione pubblica del codice e/o dei file associati non implica in alcun modo la
@@ -61,5 +61,6 @@ Per richieste di autorizzazione o collaborazione, contattare:
 ---
 
 © 2025 Cagliano Simone — Tutti i diritti riservati.
+
 
 
