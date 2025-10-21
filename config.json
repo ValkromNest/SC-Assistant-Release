@@ -2,9 +2,13 @@
   "percorsoLog": "E:\\Roberts Space Industries\\StarCitizen\\LIVE",
   "layout": "destra",
   "posizione": {
-    "x": 454,
-    "y": 168
+    "x": 297,
+    "y": 7
   },
-  "registraNpc": true,
-  "uexAPI": ""
+  "posizioneFeed": {
+    "x": 1390,
+    "y": 468
+  },
+  "registraNpc": false,
+  "uexAPI": "be95605b543784ad519f1fd47707956890616d40"
 }
